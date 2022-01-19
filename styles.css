@@ -53,3 +53,11 @@ img {
 	width: 100px;
 	height: 100px;
 }
+
+.yellow-buttons {
+	width: 144px;
+	height: 40px;
+	background-color: yellow;
+	border-color: yellow;
+	border-radius: 5px;
+}
