@@ -36,3 +36,20 @@ input {
 img {
 	max-width: 300px;
 }
+
+.columns {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.logos-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.logos {
+	width: 100px;
+	height: 100px;
+}
